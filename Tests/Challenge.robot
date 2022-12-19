@@ -7,7 +7,7 @@ Test Setup                  Begin Web Test
 Test Teardown               End Web Test
 
 *** Variables ***
-${BROWSER}=                 ie
+${BROWSER}=                 firefox
 ${URL}=                     https://automationplayground.com/front-office/
 
 *** Test Cases ***
